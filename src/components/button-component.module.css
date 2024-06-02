@@ -1,0 +1,12 @@
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button{
+  width: 55px;
+  height: 45px;
+  margin: 15px;
+  background-color: #a2bbcf;
+}
